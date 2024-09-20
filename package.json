@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vite": "^5.4.6"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
+}
